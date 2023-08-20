@@ -1,2 +1,2 @@
 # Certificados
-Repositório destinado aos certificados obtidos de cursos EaD
+Repositório destinado aos certificados obtidos e cursos EaD
